@@ -16,7 +16,7 @@ public class ProjectConfig {
     @Bean
     public Person person(){
         Person person = new Person();
-        person.setName("Lucy");
+        person.setName("Preeti");
         person.setVehicle(vehicle());
         return person;
 
